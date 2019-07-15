@@ -44,7 +44,7 @@
       "opacity": "99",
       "text": "We use cookies to give you the best experience. Read our <a href='privacy.html'>cookie policy</a>."
     },
-    "favicon": "",
+    "favicon": "@PROJECT_PATH@/assets/images/screenshot-2019-07-15-17.06.28-128x130.png",
     "noImageResize": "",
     "siteUrl": "undefined",
     "google-analytics": "",
